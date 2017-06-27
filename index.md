@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# HumbleNet
 
-You can use the [editor on GitHub](https://github.com/HumbleNet/humblenet.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## What exactly is HumbleNet?
+   
+HumbleNet is a simple C API that wraps WebRTC and WebSockets and hides away all
+the platform differences between browser and non-browser platforms. The current
+version of the library exposes a simple peer-to-peer API that allows for basic
+peer discovery and the ability to easily send data (via WebRTC) to other peers.
+In this manner, you can build a game that runs on Linux, macOS, and Windows,
+while using any web browser — and they can all communicate in real-time via WebRTC.
+This means no central server (except for peer discovery) is needed to handle network
+traffic for the game. The peers can talk directly to each other.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HumbleNet/humblenet.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
