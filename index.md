@@ -11,3 +11,8 @@ while using any web browser — and they can all communicate in real-time via We
 This means no central server (except for peer discovery) is needed to handle network
 traffic for the game. The peers can talk directly to each other.
 
+## Contributing
+
+## Downloads
+
+Prebuilt binary releases are available at the [github releases](https://github.com/HumbleNet/humblenet/releases) page
