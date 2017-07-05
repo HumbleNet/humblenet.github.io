@@ -21,4 +21,4 @@ Please look at our [TODO](https://github.com/HumbleNet/humblenet/blob/master/TOD
 
 ## Downloads
 
-Prebuilt binary releases will be available soon at the [github releases](https://github.com/HumbleNet/humblenet/releases) page.
+Prebuilt binary releases are available at the [github releases](https://github.com/HumbleNet/humblenet/releases) page.
