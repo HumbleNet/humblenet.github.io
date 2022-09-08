@@ -1,4 +1,9 @@
 theme: jekyll-theme-cayman
 title: HumbleNet
 description: a cross-platform networking library that works in the browser
-google_analytics: 331226174
+jekyll_rushed_analytics:
+  GoogleAnalytics4:
+    measurement_id: G-P9LJMSN57V
+plugins:
+  - jekyll-rushed-analytics
+
