@@ -1,9 +1,7 @@
 source "https://rubygems.org"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-#  gem "jekyll-feed", "~> 0.12"
   gem 'github-pages', '~> 227'
-  gem 'jekyll-rushed-analytics', '~> 0.1.15.pre'
 end
 
 gem 'webrick'
